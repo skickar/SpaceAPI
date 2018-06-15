@@ -16,7 +16,7 @@ for the 28 line version or
 # "python3 SHA1BruteForce3Lines.py" 
 for the 3 line version. It works the same.
 # "python3 SHA1BruteForce3Lines.py" 
-for the 3 line version. Also works the same.
+for the 1 line version. Also works the same.
 
 To see how this works, you can look at the documented code in the NBspecial.py file.
 
