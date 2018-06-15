@@ -13,8 +13,8 @@ Run:
 Run 
 # "python3 NBspecial.py" 
 for the 28 line version or 
-# "python3 SHA1BruteForce4Lines.py" 
-for the 4 line version. They work the same.
+# "python3 SHA1BruteForce3Lines.py" 
+for the 3 line version. They work the same.
 
 To see how this works, you can look at the documented code in the NBspecial.py file.
 
