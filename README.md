@@ -1,6 +1,6 @@
 # NB Special
 # Python Brute Forcer - SHA1
-This project is to demonstrate brute-forcing with Python. There are two versions.
+This project is to demonstrate brute-forcing with Python. There are three versions. They work the same.
 
 Brute force hash function - It will take a SHA1 hash, and compare it to SHA1 hashes of the top 10,000 worst known user passwords, printing the correct password if found.
 
