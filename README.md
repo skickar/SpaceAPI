@@ -9,7 +9,7 @@ Brute force hash function - It will take a SHA1 hash, and compare it to SHA1 has
 Run: 
 # "git clone https://github.com/sadmin2001/pythonclass.git" 
 Run: 
-# "cd pythonclass" Run "sudo pip3 install -r requirements.txt" 
+# "cd SomeBytes" Run "sudo pip3 install -r requirements.txt" 
 Run 
 # "python3 NBspecial.py" 
 for the 28 line version or 
